@@ -1,5 +1,5 @@
 # Six Games 
-Un Ecommerce orientado a la venta de videojuegos, este proyecto fue desarrollado en equipo, como práctica complementaria utilizando las herramientas tecnológicas aprendidas a lo largo del bootcamp en [HENRY](https://www.soyhenry.com/). Más abajo la descripción completa de los requerimientos solicitados para dicho proyecto.
+Un ecommerce orientado a la venta de videojuegos, este proyecto fue desarrollado en equipo, como práctica complementaria utilizando las herramientas tecnológicas aprendidas a lo largo del bootcamp en [HENRY](https://www.soyhenry.com/). Más abajo la descripción completa de los requerimientos solicitados para dicho proyecto.
 
 ![six-games-preview](https://i.ibb.co/HKX6q2X/six-games-preview.png)
 
