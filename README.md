@@ -6,7 +6,7 @@ Un ecommerce orientado a la venta de videojuegos, este proyecto fue desarrollado
 ## Video de presentación
 #### **`¡IMPORTANTE!`**
 Los videos en modo ventana se reproducen en calidad baja (360p), recomiendo ponerlos en pantalla completa para verlos en 720p o bien ajustar la calidad manualmente. 
-[![apolo-yt](https://i.ibb.co/F60fpxc/Six-games-yt.png)](https://drive.google.com/file/d/1ojy-BaRwKNJLpKFNFRUjcW71WgZDU29w/view?usp=sharing)
+[![six-games-yt-preview](https://i.ibb.co/9YGN9FR/six-games-yt-preview.png)](https://drive.google.com/file/d/1ojy-BaRwKNJLpKFNFRUjcW71WgZDU29w/view?usp=sharing)
 
 ## Tecnologías
 - ![10](https://i.ibb.co/Y38c44f/javascript.png) JavaScript
